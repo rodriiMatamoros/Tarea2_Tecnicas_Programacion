@@ -2,7 +2,7 @@
 Tarea 2 Curso_22_23_Tecnicas
 
 ## Nota: 
-Mi repositorio es https://github.com/rodriiMatamoros/Tarea1_Tecnicas_PRogramacion.git
+Mi repositorio es: https://github.com/rodriiMatamoros/Tarea2_Tecnicas_Programacion.git
 
 ## Ejercicios
 ## 1. Valores de las variables
