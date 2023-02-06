@@ -1,6 +1,9 @@
 # Tarea2_Tecnicas_Programacion
 Tarea 2 Curso_22_23_Tecnicas
 
+## Nota: 
+Mi repositorio es https://github.com/rodriiMatamoros/Tarea1_Tecnicas_PRogramacion.git
+
 ## Ejercicios
 ## 1. Valores de las variables
 ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
