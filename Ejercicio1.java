@@ -12,7 +12,7 @@ escribir("a = " & a & " y b = " & b)
 Fin */
 
 
-class{
+class Algoritmo1{
     public static void main(String[] args){
         int a, b;
         a = 3;

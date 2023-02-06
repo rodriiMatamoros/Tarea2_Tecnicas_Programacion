@@ -12,7 +12,7 @@ escribir("valor1 = " & valor1 & "; valor2 = " & valor2)
 Fin */
 
 
-class{
+class algoritmo3{  
     public static void main(String[] args){
         double valor1, valor2;
         valor1 = Double.parseDouble(JOptionPane.showInputDialog("Introduza un valor: ")); //2
