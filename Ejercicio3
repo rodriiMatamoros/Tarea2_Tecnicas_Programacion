@@ -23,4 +23,4 @@ class{
         System.out.println("valor1 = " + valor1 + "; valor2 = " + valor2); //valor1 = 2.0; valor2 = 2.0
     }
 }  
-//escribeme un main que compile y resuelva el ejercicio
+
