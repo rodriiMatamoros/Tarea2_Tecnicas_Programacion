@@ -11,15 +11,14 @@ a<-7
 escribir("a = " & a & " y b = " & b)
 Fin */
 
-//resuelve el ejercicio aquí
 class{
     public static void main(String[] args){
         int a, b;
         a = 3;
-        System.out.println("a = " + a);
+        System.out.println("a = " + a); //a = 3
         b = a + 5;
-        System.out.println("a = " + a + " y b = " + b);
+        System.out.println("a = " + a + " y b = " + b); //a = 3 y b = 8
         a = 7;
-        System.out.println("a = " + a + " y b = " + b);
+        System.out.println("a = " + a + " y b = " + b); //a = 7 y b = 8
     }
 }
