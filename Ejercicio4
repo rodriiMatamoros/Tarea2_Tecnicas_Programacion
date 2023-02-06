@@ -11,6 +11,7 @@ Introduzca el tiempo del recorrido (min).
 
 Se ha desplazado a una velocidad de 92,5 km/h. */
 
+
 import java.util.Scanner;
 
 class VelocidadMedia {
